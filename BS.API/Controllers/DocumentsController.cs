@@ -59,6 +59,7 @@ namespace BS.API.Controllers
             var documentRepository = new DocumentRepository3();  //("SELECT TOP 12 * FROM [dbo].[COL]")
             dynamic dynamicData = documentRepository.GetAllData("SELECT top 7 * FROM [dbo].[BS_LIGHT]");
             return dynamicData;
+
         }
 
         // GET: api/Documents/5
