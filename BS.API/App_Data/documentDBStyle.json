@@ -1,0 +1,37 @@
+[
+    //{
+    //    "PartID": "8cf98064-c13e-4451-97da-7f6ed2734184",
+    //    "CUSTOMER_NAME": "Sunaru AB",
+    //    "CUSTOMER_NR": 2182,
+    //    "FAKTURA_NR": 500207,
+    //    "DUE_DATE": "2013-07-11"
+    //},
+    {
+        "PartID": "14996829- b767 - 4b63- a5f8 - e8b8418b87e1",
+        "CUSTOMER_NAME": "Olle",
+        "CUSTOMER_NR": 0,
+        "FAKTURA_NR": 50999,
+        "DUE_DATE": "Jun 30 2017 12:00AM"
+    },
+    //{
+    //    "PartID": "59877d56-6719-4f62-a9c4-646dee51e9d9",
+    //    "CUSTOMER_NAME": "AB Frijo",
+    //    "CUSTOMER_NR": 1015,
+    //    "FAKTURA_NR": 500193,
+    //    "DUE_DATE": "2013-07-11"
+    //},
+    //{
+    //    "PartID": "6de8ab3f-c82b-4f60-9d83-7e23510e162b",
+    //    "CUSTOMER_NAME": "Rothoff Mark & Anläggning AB",
+    //    "CUSTOMER_NR": 1891,
+    //    "FAKTURA_NR": 500206,
+    //    "DUE_DATE": "2013-07-11"
+    //},
+    {
+        "PartID": "8cf98064-c13e-4451-97da-7f6ed2734184",
+        "CUSTOMER_NAME": "Sunaru AB",
+        "CUSTOMER_NR": 2182,
+        "FAKTURA_NR": 500207,
+        "DUE_DATE": "2013-07-11"
+    }
+]
