@@ -57,7 +57,7 @@ namespace BS.API.Controllers
         public dynamic Get() //Test med list av expando obj
         {
             var documentRepository = new DocumentRepository3();  //("SELECT TOP 12 * FROM [dbo].[COL]")
-            dynamic dynamicData = documentRepository.GetAllData("SELECT top 7 * FROM [dbo].[BS_LIGHT]");
+            dynamic dynamicData = documentRepository.GetAllData("SELECT top 7 * FROM [dbo].[COL]");
             return dynamicData;
         }
 
